@@ -4,7 +4,7 @@ import java.util.*;
 public class User {
     private boolean hasAgreedToTermsAndCode;
     private int points;
-    // Additional properties like username, email, etc.
+    // Additional properties like username, email, pronouns etc.
 
     public boolean hasAgreedToTermsAndCode() {
         return hasAgreedToTermsAndCode;
